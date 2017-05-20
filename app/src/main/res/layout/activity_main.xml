@@ -20,6 +20,7 @@
             <org.droidparts.widget.ClearableEditText
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
+                android:singleLine="true"
                 android:id="@+id/search_bar"/>
 
         </android.support.v7.widget.Toolbar>
